@@ -1,0 +1,10 @@
+{
+  "stable": {
+    "name": "v1.0.4",
+    "url": "https://bigrat.monster/"
+  },
+  "beta": {
+    "name": "v1.1.7-de947ecd",
+    "url": "https://bigrat.monster/"
+  }
+}
