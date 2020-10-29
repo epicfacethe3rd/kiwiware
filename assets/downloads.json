@@ -6,5 +6,9 @@
   "beta": {
     "name": "v1.1.7-de947ecd",
     "url": "https://bigrat.monster/"
+  },
+  "test-beta": {
+    "name": "v1.0.7",
+    "url": "https://bigrat.monster/"
   }
 }
